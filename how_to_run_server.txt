@@ -1,0 +1,7 @@
+How to run a server?
+
+Open up a command line interface, change directory to your working directory, a start a simple server using the command:
+
+-->    "python3 -m http.server --cgi 8000”
+
+Then enter this site: http://localhost:8000/
